@@ -4,8 +4,8 @@
     </a>
 </p>
 
-<br> * Efficient solutions to HackerRank problems
-<br> * Solution are coded in Java and Python
+* Efficient solutions to HackerRank problems
+* Solution are coded in Java and Python
 
 * [Warm-up Challenges](#warm-up-challenges)
 # Warm-up Challenges
