@@ -11,5 +11,5 @@
 # Warm-up Challenges
 
 |Domain|Problem|Solution Java| Solution Python|
----|---|---|---|---|---
+|-----|------|----|----|
 |Warmup Challenges|[Sales By Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|[Solution.java](Warmup/Java/SalesByMatch.java)|[Solution.py](Warmup/Java/sales_by_match.py)|
