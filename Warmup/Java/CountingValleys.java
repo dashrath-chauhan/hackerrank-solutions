@@ -15,17 +15,10 @@ public static int countingValleys(int steps, String path) {
             count -= 1;
         } else {
             count += 1;
-        }
-        
+        }s
         if(count == 0 && path.charAt(i) == 'U'){
             valleys += 1;
-        }
-        /*
-        if(i > 0 && i < steps) {
-            if(count == 0 && path.charAt(i) == 'U'){
-                valleys += 1;
-            }
-    	    }*/            
+        }            
 	}
 	return valleys;
 }

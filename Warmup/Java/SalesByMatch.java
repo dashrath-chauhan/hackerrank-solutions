@@ -12,9 +12,8 @@ public static int sockMerchant(int n, List<Integer> ar) {
             continue;
         } else {
             pairs += val.getValue() / 2;
-        }
-        
+        }        
     }
-    
+
     return pairs;
 }

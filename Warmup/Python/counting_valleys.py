@@ -15,10 +15,8 @@ def countingValleys(steps, path):
             count -= 1
         else:
             count += 1
-            
+
         if count == 0 and path[i] == 'U':
             valley += 1
-            
-        #print(count, path[i], valley)
-    #print(valley)
+
     return valley
