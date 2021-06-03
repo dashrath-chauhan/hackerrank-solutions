@@ -24,6 +24,7 @@
 | Domain | Problem | Solution Java| Solution Python |
 |-----|------|----|----|
 |Arrays|[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|[Solution.java](Array/Java/Array2D.java)|[Solution.py](Array/Python/array_2d.py)|
+|Arrays|[2D Array](https://www.hackerrank.com/challenges/left-rotation/problem)|[Solution.java](Array/Java/LeftRotation.java)|[Solution.py](Array/Python/left_rotation.py)|
 
 
 
