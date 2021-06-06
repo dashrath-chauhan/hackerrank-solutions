@@ -9,8 +9,16 @@
 * These solutions might not be the most efficient in terms of time and space complexity.
 * I have used some references from blogs or github repos for some solution, so if you find use of your code snippet without your permission or proper reference, please let me know and I will fix it.
 
+* [Java](#java)
 * [Warm-up Challenges](#warm-up-challenges)
 * [Arrays](#arrays)
+
+# Warm-up Challenges
+
+|Domain|Problem|Solution|
+|-----|------|----|
+|Java|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[Solution.java](Java/LoopII.java)|
+
 # Warm-up Challenges
 
 |Domain|Problem|Solution Java| Solution Python|
