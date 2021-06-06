@@ -18,7 +18,7 @@
 |Domain|Problem|Solution|
 |-----|------|----|
 |Java|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|[Solution.java](Java/LoopI.java)|
-|Java|[Java Loops II](https://www.hackerrank.com/challenges/java-loops-ii/problem)|[Solution.java](Java/LoopII.java)|
+|Java|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[Solution.java](Java/LoopII.java)|
 
 # Warm-up Challenges
 
