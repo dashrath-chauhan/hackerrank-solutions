@@ -13,7 +13,7 @@
 * [Warm-up Challenges](#warm-up-challenges)
 * [Arrays](#arrays)
 
-# Warm-up Challenges
+# Java
 
 |Domain|Problem|Solution|
 |-----|------|----|
