@@ -39,7 +39,7 @@
 # Linked List
 | Domain | Problem | Solution Java| Solution Python |
 |-----|------|----|----|
-|Linked List|[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|[Solution.java](Linked-List/Java/dll_reverse.java)|[Solution.py](Linked-List/Python/array_2d.py)|
+|Linked List|[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|[Solution.java](Linked-List/Java/dll_reverse.java)|[Solution.py](Linked-List/Python/dll_reverse.py)|
 
 
 
