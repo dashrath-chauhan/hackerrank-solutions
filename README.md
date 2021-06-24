@@ -12,6 +12,7 @@
 * [Java](#java)
 * [Warm-up Challenges](#warm-up-challenges)
 * [Arrays](#arrays)
+* [Linked List](#linked-list)
 
 # Java
 
@@ -34,6 +35,11 @@
 |-----|------|----|----|
 |Arrays|[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|[Solution.java](Array/Java/Array2D.java)|[Solution.py](Array/Python/array_2d.py)|
 |Arrays|[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)|[Solution.java](Array/Java/LeftRotation.java)|[Solution.py](Array/Python/left_rotation.py)|
+
+# Linked List
+| Domain | Problem | Solution Java| Solution Python |
+|-----|------|----|----|
+|Linked List|[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|[Solution.java](Linked List/Java/dll_reverse.java)|[Solution.py](Linked List/Python/array_2d.py)|
 
 
 
