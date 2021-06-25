@@ -40,8 +40,7 @@
 | Domain | Problem | Solution Java| Solution Python |
 |-----|------|----|----|
 |Linked List|[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|[Solution.java](Linked-List/Java/dll_reverse.java)|[Solution.py](Linked-List/Python/dll_reverse.py)|
-
-
+|Linked List|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)|[Solution.java](Linked-List/Java/dll_pos.java)|[Solution.py](Linked-List/Python/dll_pos.py)|
 
 
 
