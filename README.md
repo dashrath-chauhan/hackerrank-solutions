@@ -37,7 +37,7 @@
 |Arrays|[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)|[Solution.java](Array/Java/LeftRotation.java)|[Solution.py](Array/Python/left_rotation.py)|
 |Arrays|[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem)|[Solution.java](Array/Java/NewYearChaos.java)|[Solution.py](Array/Python/new_year_chaos.py)|
 |Arrays|[Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)|[Solution.java](Array/Java/MinSwaps.java)|[Solution.py](Array/Python/min_swaps.py)|
-|Arrays|[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|[Solution.java](Array/Java/Crush.java)|[Solution.py](Array/Python/cruhs.py)|
+|Arrays|[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|[Solution.java](Array/Java/Crush.java)|[Solution.py](Array/Python/crush.py)|
 
 # Linked List
 | Domain | Problem | Solution Java| Solution Python |
